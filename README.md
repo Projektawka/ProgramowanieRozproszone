@@ -2,7 +2,7 @@
 
 ## Gra Pong
 
-Repozytorium zawiera materiały w ramach projektu z przedmiotu "Programowanie Rozproszone", przygotowane przez 3-osobowy zespół (grupa 5 na enauczaniu):
+Repozytorium zawiera materiały w ramach projektu z przedmiotu "Przetwarzanie Rozproszone", przygotowane przez 3-osobowy zespół (grupa 5 na enauczaniu):
 + Jana Grubbę
 + Wiktora Zwarę
 + Patryka Kalkowskiego 
